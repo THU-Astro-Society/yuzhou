@@ -32,8 +32,9 @@ see the slides @
 - 主讲鱼：太阳鱼
 
 第四次鱼粥的主题是弗里德曼方程，具体地，讲述了
-1. 如何由最大对称性（maximum symmetry）得到FLRW度规，
-2. 得到度规后如何利用测地线方程（本质是利用欧拉方程）快速地得到 Christoffel symbol 的具体形式。此后只需计算Ricci tensor和Ricci scalar代入Einstein field equation便可得到Friedmann Equation
+1. 如何描述对称性（killing vector），以及最大对称性对应的描述（killing vector的形式）
+2. 如何由最大对称性（maximum symmetry）得到FLRW度规，
+3. 得到度规后如何利用测地线方程（本质是利用欧拉方程）快速地得到 Christoffel symbol 的具体形式。此后只需计算Ricci tensor和Ricci scalar代入Einstein field equation便可得到Friedmann Equation
 
 亮点标记：
 1. Weinberg G&C 一书中，Riemann tensor 与一般宇宙学中的定义差一个负号。同时，规定Riemann tensor 13指标缩并为 Ricci tensor，与“一般”14缩并不同。这两个记法共同导致了其 Ricci tensor 与“一般”定义是一致的。
