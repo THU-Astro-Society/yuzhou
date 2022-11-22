@@ -40,6 +40,25 @@ see the slides @
 1. Weinberg G&C 一书中，Riemann tensor 与一般宇宙学中的定义差一个负号。同时，规定Riemann tensor 13指标缩并为 Ricci tensor，与“一般”14缩并不同。这两个记法共同导致了其 Ricci tensor 与“一般”定义是一致的。
 2. 利用测地线方程可以将 “耐心杀手” Christoffel symbol计算在4分钟内极限完成（可是主讲鱼真的做这个计算了吗？
 
+## 5 distance measurement in cosmology
+
+- 时间：2022年10月23日 19:00-21:00
+- 地点：蒙南楼S727
+- 主讲鱼：xrjj
+
+## 6 thermal history
+
+- 时间：2022年11月13日 ?
+- 地点：蒙南楼S727
+- 主讲鱼：道长鱼
+
+## 7 inflation 1
+
+- 时间：2022年11月20日 19:00-21:00
+- 地点：4105
+- 主讲鱼：zys
+
+
 ---
 
 extra/ 中是一些彩蛋。 
