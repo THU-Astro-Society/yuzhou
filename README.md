@@ -61,6 +61,4 @@ see the slides @
 
 ---
 
-extra/ 中是一些彩蛋。 
-
-本网页托管于 GitHub , 源库见 https://github.com/SiyiZhao/yuzhou_TAS 
+本网页托管于 GitHub , 源库见 https://github.com/THU-Astro-Society/yuzhou/
