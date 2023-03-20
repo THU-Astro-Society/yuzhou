@@ -58,6 +58,48 @@ see the slides @
 - 地点：4105
 - 主讲鱼：zys
 
+## 8 inflation 2
+
+## 9 CMB
+
+## 10 21-cm cosmology
+
+# 2023 Spring
+
+TAS seminar
+
+第二期“鱼粥”开始读温伯格2019年出版的天体物理教材。
+本学期预计读第一章——关于恒星的计算
+
+## 1 intro & Hydrostatic Equilibrium
+
+- 假设恒星内部各项同性，化简为可求解的1维方程。
+- 我们有**连续性方程**和**流体静力学平衡方程**，未知量有 密度$\rho(r)$, 压强$P(r)$, 质量$M(r)$, 缺一个状态方程。
+- 但仍然可以得到一些初步的结论：
+  - 。。。（待补充）
+- 之后的小节将仔细讨论状态方程。
+
+## 2 Radiative Energy Transport (1)
+
+- 本节讨论 *辐射在恒星内部的传递*， 但(1)中的讨论是更宽泛的，也适用于其它天体物理环境中的辐射转移，比如光子经过IGM。
+
+- 定义“intensity”，
+- 我们考虑“intensity”的时间变化率，有四项贡献：
+  - transport
+  - absorption
+  - scatter
+  - emission
+- 得到完整的辐射转移方程
+$$
+\begin{aligned}
+\frac{\partial}{\partial t} \ell(\hat{n}, \mathbf{x}, v, t)= & -c \hat{n} \cdot \nabla \ell(\hat{n}, \mathbf{x}, v, t) \\
+& -c \kappa_{\mathrm{abs}}(\mathbf{x}, v, t) \rho(\mathbf{x}, t) \ell(\hat{n}, \mathbf{x}, v, t) \\
+& +c \rho(\mathbf{x}, t) \int d^2 \hat{n}^{\prime}\left[-\kappa_{\mathcal{S}}\left(\hat{n} \rightarrow \hat{n}^{\prime} ; \mathbf{x}, v, t\right) \ell(\hat{n}, \mathbf{x}, v, t)\right. \\
+& \left.+\kappa_{\mathcal{S}}\left(\hat{n}^{\prime} \rightarrow \hat{n} ; \mathbf{x}, v, t\right) \ell\left(\hat{n}^{\prime}, \mathbf{x}, v, t\right)\right] \\
+& +j(\mathbf{x}, v, t) \rho(\mathbf{x}, t) / 4 \pi
+\end{aligned}
+$$
+
 
 ---
 
