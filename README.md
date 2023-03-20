@@ -74,7 +74,7 @@ TAS seminar
 ## 1 intro & Hydrostatic Equilibrium
 
 - 假设恒星内部各项同性，化简为可求解的1维方程。
-- 我们有**连续性方程**和**流体静力学平衡方程**，未知量有 密度$\rho(r)$, 压强$P(r)$, 质量$M(r)$, 缺一个状态方程。
+- 我们有**连续性方程**和**流体静力学平衡方程**，未知量有 密度 $\rho(r)$, 压强 $P(r)$, 质量 $M(r)$, 缺一个状态方程。
 - 但仍然可以得到一些初步的结论：
   - 。。。（待补充）
 - 之后的小节将仔细讨论状态方程。
@@ -90,6 +90,7 @@ TAS seminar
   - scatter
   - emission
 - 得到完整的辐射转移方程
+
 $$
 \begin{aligned}
 \frac{\partial}{\partial t} \ell(\hat{n}, \mathbf{x}, v, t)= & -c \hat{n} \cdot \nabla \ell(\hat{n}, \mathbf{x}, v, t) \\
